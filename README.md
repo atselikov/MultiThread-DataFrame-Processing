@@ -1,2 +1,2 @@
 # MultiThread-DataFrame-Processing
-MultiProcess huge csv file using pretraned ML-algorithm
+Sometime it's necessary to process huge (~50 mln) csv file using pretraned ML-algorithm
